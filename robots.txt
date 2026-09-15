@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://traviszhao1128.github.io/sitemap.xml
